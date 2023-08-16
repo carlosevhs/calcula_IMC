@@ -4,7 +4,7 @@ const Cabecalho = () => {
 
     return (
         <header>
-            <h1>Calculo de IMC</h1>
+            <h1>Calculadora de IMC</h1>
         </header>
     )
 }
